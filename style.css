@@ -1,0 +1,15 @@
+nav ul {
+    padding-left: 0;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+.content-section {
+    display: none;
+}
+
+.content-section:target {
+    display: block;
+}
